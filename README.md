@@ -8,3 +8,4 @@ Click the Gym.exe to run the program.
 
 
 We also have files that we use and project files that future developers can use to update the program.
+The contributors of this program are Dave Dominic Goze, Larra Jane Perminola, and Zachary Steven Sulte.
